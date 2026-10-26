@@ -1,6 +1,6 @@
-# TEKNOFEST Otonom Araç
+# 4 Tekerlekli Otonom Robot Araba
 
-Arduino tabanlı otonom aracın ışık tarama görevi. Araç bir hat boyunca **ileri gidip geri gelerek** LDR sensörüyle ışık ölçer. Sonra **en aydınlık** ve **en karanlık** noktaları bulup bu noktalara gider.
+Üniversite yarışmaları ve gösterimler için geliştirilmiş 4 tekerlekli otonom robot aracın ışık tarama görevi. Araç bir hat boyunca **ileri gidip geri gelerek** LDR sensörüyle ışık ölçer. Sonra **en aydınlık** ve **en karanlık** noktaları bulup bu noktalara gider.
 
 ## Görev Akışı
 

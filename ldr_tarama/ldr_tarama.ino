@@ -1,5 +1,5 @@
 /*
-  TEKNOFEST Otonom Araç - LDR ile En Aydınlık / En Karanlık Noktayı Bulma
+  4 Tekerlekli Otonom Robot Araba - LDR ile En Aydınlık / En Karanlık Noktayı Bulma
 
   Çalışma mantığı:
     1. TARAMA   : Araç adım adım ileri gider, her adımda durup LDR ile ışığı ölçer.
